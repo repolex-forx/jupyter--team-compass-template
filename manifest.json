@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyter",
+  "repo": "team-compass-template",
+  "versions": [
+    {
+      "commit": "c12f15423ce3ffda5c68bed4dc614c02eb438ddf",
+      "parsed_at": "2026-10-21T22:02:39.825895+00:00",
+      "filetree": "filetree/c12f15423ce3ffda5c68bed4dc614c02eb438ddf.nq.gz",
+      "blobs": [
+        "blob/6fff6fea1e6322fac993f2b766d00d30e154b48a.nq.gz",
+        "blob/7aaeae5eb0e9229ca935836abd262adbd8299cd6.nq.gz",
+        "blob/6369dedffa186c53800075613882ef3e9d8890ef.nq.gz",
+        "blob/fa25c2e371be82f38f61daf5fd2402b10fe53453.nq.gz",
+        "blob/4ca97d3cb7559a8494be26d646be953ab60ec284.nq.gz",
+        "blob/693956812a13b23066f63cb7f1bc954d1e46e435.nq.gz",
+        "blob/22cd887a458f47bdd60a2210d77384b6fe4cf2de.nq.gz",
+        "blob/0b606ec30294417d895b9d7f176f751119460a00.nq.gz",
+        "blob/598b4e6475041fe11f12c99787e22d6be2f42548.nq.gz",
+        "blob/c0dc7aa890dfe2e6224e9fae64cea0306f21421e.nq.gz",
+        "blob/e08b120d1e51a948a7e024b7e0094ec7e31d58b2.nq.gz",
+        "blob/fc2799dd86d9fc2a2d1d01995967177c2d00cc73.nq.gz",
+        "blob/e72ab8bbf2cfe3fcded217af25bf5992e48baff6.nq.gz",
+        "blob/12ccd9427858abb36e3c08f8de7cc67ce6848b63.nq.gz",
+        "blob/7414a34cc680e9866efda983278033f0bbdbe400.nq.gz",
+        "blob/950164b621c17720afa6912754a3a98d8cc1428b.nq.gz",
+        "blob/d6b98a51c238386d8f05b8d8f814783ed254529f.nq.gz",
+        "blob/8dcd05499c5ea45ce2317bbab135990598313237.nq.gz",
+        "blob/9bd6dc65b8f10731be96d094484d8e54452db79f.nq.gz",
+        "blob/3a98f526969aec65f15b626dd8dc3fe00ee866cb.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
