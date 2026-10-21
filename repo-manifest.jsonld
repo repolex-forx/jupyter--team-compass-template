@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyter/team-compass-template/commit/c12f15423ce3ffda5c68bed4dc614c02eb438ddf",
       "git:hexsha": "c12f15423ce3ffda5c68bed4dc614c02eb438ddf",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
