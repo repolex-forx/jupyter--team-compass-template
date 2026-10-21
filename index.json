@@ -1,0 +1,11 @@
+{
+  "org": "jupyter",
+  "repo": "team-compass-template",
+  "versions": [
+    {
+      "commit": "c12f15423ce3ffda5c68bed4dc614c02eb438ddf",
+      "tag": "",
+      "parsed_at": "2026-10-21T22:05:33.808489+00:00"
+    }
+  ]
+}
